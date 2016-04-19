@@ -1,6 +1,5 @@
-module LibreSSL [system] {
+module NGHTTP [system] {
     header "headers.h"
-    link "crypto"
-    link "tls"
+    link "nghttp2"
     export *
 }
