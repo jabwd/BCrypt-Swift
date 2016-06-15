@@ -1,7 +1,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "NGHTTP",
+    name: "BCrypt",
     targets: [],
     dependencies: []
 )

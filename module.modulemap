@@ -1,5 +1,5 @@
-module NGHTTP [system] {
+module BCrypt [system] {
     header "headers.h"
-    link "nghttp2"
+    link "bcrypt"
     export *
 }
